@@ -10,7 +10,7 @@ First clone the repository:
 
 ```bash
 git clone https://github.com/mustafasencerr/ChurnModel.git
-cd churn-prediction
+cd ChurnModel
 ```
 
 Then, install the required dependencies:
