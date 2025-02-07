@@ -9,7 +9,7 @@ By analyzing customer behavior, the model predicts whether a customer is likely 
 First clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/churn-prediction.git
+git clone https://github.com/mustafasencerr/ChurnModel.git
 cd churn-prediction
 ```
 
